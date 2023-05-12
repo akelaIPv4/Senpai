@@ -107,7 +107,7 @@ body {
     -ms-user-select: none; /* IE 10+ */
     }
 ::placeholder {
-  color: #252424;
+  color: #8b8989;
   opacity: 0.3;
 }
 /* Firefox */
